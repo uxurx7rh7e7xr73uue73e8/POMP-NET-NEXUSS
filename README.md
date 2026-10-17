@@ -1,458 +1,442 @@
-وارد سایت بشوید و اپ رو دانلود کنید 
+<div align="center">
 
-https://nexus-neon-persian.lovable.app/#download
+# 🚀 POMP NET NEXUS
 
+### ⚡ نسل جدید تجربه اتصال، با طراحی اختصاصی POMP NET
 
+<p>
+  ورود به سایت پروژه، مشاهده اطلاعات برنامه و دسترسی به بخش دانلود
+</p>
 
-نمونه ای از گیت هاب و نمایش پروژه ها :
+<a href="https://nexus-neon-persian.lovable.app/#download" target="_blank">
+  <img src="https://img.shields.io/badge/⬇_ورود_به_سایت_و_دانلود-POMP_NET_NEXUS-8B35FF?style=for-the-badge&logo=android&logoColor=white" alt="ورود به سایت دانلود POMP NET NEXUS">
+</a>
 
+<br><br>
 
-https://neon-pomp-hub.lovable.app
+<a href="https://neon-flow-pompnet.lovable.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_مشاهده_نسخه_دوم_سایت-168CFF?style=for-the-badge" alt="مشاهده نسخه دوم سایت">
+</a>
 
+<br><br>
 
-نسخه دوم اپ هس ولی هنوز تست نکردم تست کنید بهم بگین :
+<a href="https://t.me/PompNett" target="_blank">
+  <img src="https://img.shields.io/badge/💬_ارتباط_با_پمپ_نت-FF3DBB?style=for-the-badge&logo=telegram&logoColor=white" alt="ارتباط با POMP NET">
+</a>
 
+<br><br>
 
+<img src="https://img.shields.io/badge/PROJECT-POMP%20NET%20NEXUS-8B35FF?style=flat-square" alt="Project">
+<img src="https://img.shields.io/badge/DESIGN-QUANTUM%20GLASS-168CFF?style=flat-square" alt="Design">
+<img src="https://img.shields.io/badge/PLATFORM-ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
 
-
-
-https://neon-flow-pompnet.lovable.app
-
-
-
-
-سایت رسمی مجموعه پمپ نت :
-
-https://pomp-net.botpool.ai/
-
-
-
-
-گپ رسمی مجموعه پمپ نت :
-
-https://t.me/PompNett
-
-
-چنل  رسمی مجموعه پمپ نت :
-
-
-https://t.me/pompnet
-
-
-
-
-
-
-چنل  رسمی پروکسی مجموعه پمپ نت : 
-
-
-https://t.me/Myporoxy18
-
-
-
-
-
-https://neon-pomp-hub.lovable.app
-🚀 POMP NET NEXUS
-
-Premium Android VPN • Quantum Glass UI • Download Website • Admin Dashboard
-
-<p align="center">
-  <strong>A modern VPN application and download platform powered by a real VPN core.</strong>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Brand-POMP%20NET-8B35FF?style=for-the-badge" alt="POMP NET">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Design-Quantum%20Glass-168CFF?style=for-the-badge" alt="Quantum Glass">
-  <img src="https://img.shields.io/badge/Language-Persian%20%7C%20RTL-FF3DBB?style=for-the-badge" alt="Persian RTL">
-</p>---
-
-🌌 About the Project
-
-POMP NET NEXUS is a premium VPN project combining an Android application, a modern download website, and an administration dashboard.
-
-The project focuses on a distinctive visual identity, a Persian-first user experience, responsive layouts, and integration with a real VPN core.
-
-The goal is to create a complete and maintainable platform rather than a static demonstration.
-
-✨ Core Components
-
-- 📱 Android VPN application
-- 🌐 Premium application download website
-- 🛡️ Real VPN connection integration
-- ⚙️ Administration dashboard
-- 📦 Application release and download management
-- 📊 Connection and application information
-- 📖 Installation and configuration guides
-- 💬 Support and Telegram community links
-
-«Features are considered operational only after their implementations and integrations have been verified.»
+</div>
 
 ---
 
-🎨 Quantum Glass Design System
+## 📥 دانلود و دسترسی سریع
 
-The interface uses a futuristic dark-glass visual identity.
+برای دسترسی به سایت و بخش دانلود، روی دکمه زیر بزن:
 
-Design Principles
+### [⬇️ ورود به سایت و دانلود POMP NET NEXUS](https://nexus-neon-persian.lovable.app/#download)
 
-- Deep black backgrounds
-- Translucent glass panels
-- Purple, blue, and pink neon accents
-- Subtle animated lighting
-- Rounded cards and refined borders
-- Responsive mobile-first layouts
-- Persian typography and right-to-left support
-- Clear navigation and readable spacing
-- Smooth transitions and lightweight animations
-- Consistent visual identity across the website and application
+از طریق سایت می‌توانی اطلاعات پروژه را مشاهده کنی و در صورت وجود فایل APK واقعی و فعال، از بخش دانلود آن استفاده کنی.
 
-Brand Colors
+**توجه:** دکمه بالا سایت را باز می‌کند. دانلود مستقیم فایل تنها زمانی انجام می‌شود که لینک دانلود داخل سایت به یک فایل APK واقعی و قابل‌دسترسی متصل باشد.
 
-Color| Hex| Purpose
-Neon Purple| "#8B35FF"| Primary brand
-Electric Blue| "#168CFF"| Actions and highlights
-Neon Pink| "#FF3DBB"| Secondary accents
-Deep Black| "#050509"| Main background
+### لینک‌های اصلی پروژه
 
-Typography
-
-- Vazirmatn for Persian content
-- Space Grotesk for selected Latin headings
-- JetBrains Mono for technical information
+| عنوان | لینک |
+|---|---|
+| 📥 سایت دانلود | https://nexus-neon-persian.lovable.app/#download |
+| 🌐 نسخه دوم سایت برای بررسی | https://neon-flow-pompnet.lovable.app |
+| 🖥️ سایت معرفی پروژه | https://neon-pomp-hub.lovable.app |
+| 🌐 وب‌سایت POMP NET | https://pomp-net.botpool.ai/ |
+| 💬 گفت‌وگوی تلگرام | https://t.me/PompNett |
+| 📢 کانال رسمی POMP NET | https://t.me/pompnet |
+| 🌍 کانال پروکسی | https://t.me/Myporoxy18 |
+| 🧩 سورس اصلی v2rayNG | https://github.com/2dust/v2rayNG |
+| 📦 مخزن POMP NET NEXUS | https://github.com/uxurx7rh7e7xr73uue73e8/POMP-NET-NEXUS |
 
 ---
 
-🌐 Design Inspiration and Reference Websites
+## 🌌 معرفی پروژه
 
-The following websites are design references for the POMP NET NEXUS project.
+**POMP NET NEXUS** پروژه‌ای با هویت بصری اختصاصی POMP NET است که هدف آن فراهم‌کردن تجربه‌ای مدرن برای اپلیکیشن اندروید، وب‌سایت دانلود و مدیریت اطلاعات انتشار برنامه است.
 
-1. "NEXUS NEON PERSIAN" (https://nexus-neon-persian.lovable.app/#download)
-2. "NEON POMP HUB" (https://neon-pomp-hub.lovable.app)
-3. "NEON FLOW POMPNET" (https://neon-flow-pompnet.lovable.app)
+این پروژه با تمرکز بر طراحی حرفه‌ای، رابط کاربری فارسی، سازگاری با موبایل، دسترسی آسان و استفاده از هسته واقعی برنامه در نظر گرفته شده است.
 
-The objective is to combine suitable visual ideas and verified functionality into one consistent POMP NET experience.
+هدف پروژه ساخت یک محصول واقعی است؛ نه صرفاً یک صفحه نمایشی که دکمه‌های آن بدون عملکرد باشند.
 
-Reference websites are inspirations, not proof that their features have been implemented in this repository.
+### اصول اصلی پروژه
 
----
-
-🖼️ Project Gallery
-
-The following sections are intended for screenshots of the actual project.
-
-1. Main Website
-
-Showcase the landing page, branding, feature cards, and navigation.
-
-"POMP NET NEXUS Website" (docs/images/website-home.png)
-
-2. Download Center
-
-Display the actual application version, verified APK size, SHA-256 checksum, and release notes.
-
-"POMP NET NEXUS Download Center" (docs/images/download-center.png)
-
-3. Android Application
-
-Show the real application interface, server selection, connection controls, and connection status.
-
-"POMP NET NEXUS Android App" (docs/images/android-app.png)
-
-4. Administration Dashboard
-
-Show the actual administrative interface, release management, and available system information.
-
-"POMP NET NEXUS Admin Dashboard" (docs/images/admin-dashboard.png)
-
-5. Mobile Experience
-
-Show the responsive website running on a mobile screen.
-
-"POMP NET NEXUS Mobile Website" (docs/images/mobile-website.png)
-
-6. Connection Interface
-
-Show the real connection interface and supported connection statistics.
-
-"POMP NET NEXUS Connection Screen" (docs/images/connection-screen.png)
-
-«Gallery setup: Upload the actual screenshots using the filenames above into "docs/images/". Until those files exist, the images will not render.»
+- 🎨 طراحی اختصاصی QUANTUM GLASS
+- 📱 رابط کاربری مناسب گوشی‌های اندرویدی
+- 🌐 وب‌سایت دانلود و معرفی برنامه
+- 🔗 اتصال دکمه‌ها به مقصدهای واقعی
+- 📦 انتشار نسخه‌های قابل‌بررسی برنامه
+- 🔐 توجه به امنیت و حریم خصوصی
+- 🧩 حفظ قابلیت‌های هسته اصلی
+- 🇮🇷 پشتیبانی از رابط فارسی و راست‌چین
+- 📖 مستندات و راهنمای استفاده
+- 🛠️ توسعه تدریجی با حفظ ساختار پروژه اصلی
 
 ---
 
-📱 Android VPN Application
+## ✨ قابلیت‌ها و بخش‌های پروژه
 
-The Android application is intended to build on the real upstream project:
+### 1. اپلیکیشن اندروید
 
-Upstream repository: "2dust/v2rayNG" (https://github.com/2dust/v2rayNG)
+هدف، توسعه نسخه برندشده POMP NET بر پایه سورس واقعی پروژه [v2rayNG](https://github.com/2dust/v2rayNG) است.
 
-The original project should remain the foundation of the application.
+قابلیت‌های موردنظر، با توجه به پیاده‌سازی واقعی در کد پروژه، شامل موارد زیر هستند:
 
-Intended Features
+- مدیریت پروفایل‌های اتصال
+- افزودن و واردکردن تنظیمات اتصال
+- پشتیبانی از قالب‌های پیکربندی مورد پشتیبانی هسته
+- اتصال از طریق سرویس VPN اندروید
+- نمایش وضعیت اتصال
+- قطع و برقراری اتصال
+- نمایش اطلاعات اتصال در صورت پشتیبانی
+- بررسی تأخیر سرورها در صورت پیاده‌سازی
+- مدیریت تنظیمات برنامه
+- مشاهده گزارش‌های مرتبط با اتصال در صورت پشتیبانی
+- نمایش اطلاعات نسخه برنامه
+- ارائه راهنمای نصب و استفاده
+- نمایش لینک پشتیبانی و کانال‌های رسمی
 
-- Real VPN connection through the integrated core
-- Import supported server configurations
-- Display available server profiles
-- Connect and disconnect through the actual VPN service
-- Display real connection status
-- Configuration management
-- Connection and troubleshooting guides
-- Application information and release notes
-- Persian interface and mobile-friendly design
-- Consistent POMP NET branding
+**مهم:** وجود هر قابلیت در این فهرست به معنی تأیید عملکرد آن در نسخه منتشرشده نیست. هر قابلیت باید در نسخه واقعی برنامه پیاده‌سازی و آزمایش شود.
 
-Supported Protocols
+### 2. هسته واقعی VPN
 
-Protocol support depends on the upstream core version, the integrated implementation, and the supplied configuration.
+پروژه باید از هسته و سازوکار واقعی پروژه اصلی استفاده کند.
 
-Potential protocols include:
+منبع اصلی:
 
-- VLESS
-- VMess
-- Trojan
-- Shadowsocks
-- Other protocols supported by the integrated core
+https://github.com/2dust/v2rayNG
 
-A protocol must not be advertised as working until it has been verified in the actual application.
+در توسعه پروژه:
 
-Android Development Requirements
+- منطق اصلی اتصال نباید با یک صفحه نمایشی جایگزین شود.
+- سرویس VPN اندروید باید حفظ شود.
+- وابستگی‌ها و تنظیمات ساخت باید بررسی شوند.
+- قابلیت‌های هسته نباید صرفاً با متن یا انیمیشن شبیه‌سازی شوند.
+- پشتیبانی از هر پروتکل باید با بررسی هسته و نسخه واقعی برنامه تأیید شود.
+- تغییرات برندینگ نباید عملکرد اصلی برنامه را خراب کنند.
 
-- Preserve the original VPNService implementation.
-- Maintain compatible Gradle dependencies.
-- Preserve existing connection logic.
-- Avoid replacing the real VPN engine with a simulation.
-- Keep upstream licensing and attribution notices.
-- Test actual connections before publishing a release.
+پشتیبانی از پروتکل‌ها و فرمت‌های اتصال به نسخه هسته، تنظیمات ساخته‌شده و پیاده‌سازی واقعی وابسته است.
 
----
+### 3. وب‌سایت دانلود
 
-🌐 Premium Download Website
+وب‌سایت پروژه باید امکان دسترسی آسان به اطلاعات برنامه و نسخه‌های منتشرشده را فراهم کند.
 
-The website is designed to serve as the official POMP NET NEXUS application portal.
+بخش‌های پیشنهادی:
 
-Website Sections
+- صفحه معرفی POMP NET NEXUS
+- بخش دانلود برنامه
+- اطلاعات نسخه منتشرشده
+- اندازه واقعی فایل APK
+- تاریخ انتشار واقعی
+- توضیحات تغییرات نسخه
+- راهنمای نصب
+- راهنمای واردکردن تنظیمات
+- راهنمای بررسی اتصال
+- بخش پشتیبانی
+- لینک کانال رسمی تلگرام
+- بخش مجوزها و اطلاعات پروژه
 
-- Home
-- Application download
-- Application information
-- Installation guide
-- Configuration guide
-- Connection troubleshooting
-- Release notes
-- Privacy and licensing
-- Telegram channel
-- Telegram community
-- Support
+**قانون مهم:** نسخه، حجم فایل، هش SHA-256 و اطلاعات انتشار نباید ساختگی باشند؛ این موارد باید از فایل واقعی انتشار استخراج شوند.
 
-Download Integrity
+### 4. پنل مدیریت
 
-The download page should obtain release information from the actual published application.
+در صورت پیاده‌سازی بخش مدیریت، امکانات موردنظر عبارت‌اند از:
 
-It should display:
+- ورود امن مدیر
+- مدیریت اطلاعات نسخه‌های منتشرشده
+- ثبت توضیحات تغییرات نسخه
+- مدیریت لینک دانلود
+- مشاهده اطلاعات انتشار
+- مدیریت تنظیمات عمومی سایت
+- کنترل دسترسی به امکانات مدیریتی
 
-- Current published version
-- Actual APK file size
-- SHA-256 checksum calculated from the published APK
-- Release date
-- Changelog
-- Working download link
+اطلاعات حساس نباید مستقیماً در کد سمت کاربر قرار بگیرند.
 
-The site must not display invented versions, fabricated checksums, or download buttons that do not lead to a real application package.
-
-Download Experience
-
-- Mobile-friendly download page
-- Clear application information
-- Accessible download controls
-- Installation instructions
-- Release history
-- Real download status where supported
-- Appropriate error messages if a release is unavailable
+همچنین، ظاهرشدن یک دکمه مدیریت در رابط کاربری به‌تنهایی به معنی وجود عملکرد واقعی سمت سرور نیست؛ هر قابلیت مدیریتی باید با منطق سمت سرور و کنترل دسترسی مناسب پیاده‌سازی شود.
 
 ---
 
-🛡️ Administration Dashboard
+## 🎨 سیستم طراحی QUANTUM GLASS
 
-The administration dashboard is intended to manage the website and published releases.
+هویت بصری POMP NET NEXUS بر اساس طراحی شیشه‌ای مدرن، پس‌زمینه تیره و نورهای نئونی شکل گرفته است.
 
-Planned Management Features
+### رنگ‌های اصلی
 
-- Secure administrator authentication
-- Application release management
-- Download link management
-- Release notes management
-- Application information management
-- Support and community link management
-- Persistent storage for supported settings
-- Responsive dashboard interface
-- Input validation and authorization
-- Clear success and error messages
+| کاربرد | رنگ |
+|---|---|
+| پس‌زمینه اصلی | `#050509` |
+| بنفش نئونی | `#8B35FF` |
+| آبی نئونی | `#168CFF` |
+| صورتی نئونی | `#FF3DBB` |
 
-Administrative functions must be protected on the server side.
+### ویژگی‌های ظاهری
 
-Sensitive credentials must not be embedded in frontend JavaScript or exposed through public API responses.
+- کارت‌های شیشه‌ای نیمه‌شفاف
+- پس‌زمینه تیره
+- نورپردازی ملایم
+- حاشیه‌های ظریف و درخشان
+- دکمه‌های واضح و قابل‌لمس
+- فاصله‌گذاری مناسب
+- طراحی واکنش‌گرا
+- پشتیبانی از صفحه‌نمایش گوشی
+- رابط فارسی و راست‌چین
+- انیمیشن‌های ظریف و کنترل‌شده
 
-Security Requirements
+### فونت‌های پیشنهادی
 
-- Validate administrator permissions for every protected operation.
-- Store secrets using environment variables or a secure secret store.
-- Do not rely solely on frontend route protection.
-- Protect administrative APIs against unauthorized requests.
-- Preserve existing user data and application settings.
+- Vazirmatn برای رابط فارسی
+- Space Grotesk برای بخش‌های لاتین
+- JetBrains Mono برای نمایش متون فنی و کد
+
+استفاده از این فونت‌ها به اضافه‌شدن واقعی فایل‌ها یا بارگذاری موفق آن‌ها وابسته است.
 
 ---
 
-🧰 Technology
+## 🖼️ تصاویر پروژه
 
-The exact stack depends on the implementation in the repository.
+برای نمایش تصاویر در این بخش، تصاویر واقعی پروژه را در مسیرهای زیر قرار بده.
 
-Android
+### تصویر صفحه اصلی سایت
+
+![POMP NET NEXUS Website](docs/images/website-home.png)
+
+### تصویر مرکز دانلود
+
+![POMP NET NEXUS Download Center](docs/images/download-center.png)
+
+### تصویر اپلیکیشن اندروید
+
+![POMP NET NEXUS Android App](docs/images/android-app.png)
+
+### تصویر پنل مدیریت
+
+![POMP NET NEXUS Admin Dashboard](docs/images/admin-dashboard.png)
+
+### تصویر نسخه موبایل سایت
+
+![POMP NET NEXUS Mobile Website](docs/images/mobile-website.png)
+
+### تصویر صفحه اتصال
+
+![POMP NET NEXUS Connection Screen](docs/images/connection-screen.png)
+
+> این تصاویر تا زمانی که فایل‌های واقعی با نام‌ها و مسیرهای بالا در مخزن قرار نگیرند، نمایش داده نمی‌شوند. نام فایل‌ها به‌تنهایی تصویر ایجاد نمی‌کند.
+
+---
+
+## 🧪 آزمایش نسخه دوم سایت
+
+### لینک بررسی
+
+**[🌐 ورود به نسخه دوم سایت POMP NET](https://neon-flow-pompnet.lovable.app)**
+
+نسخه دوم برای بررسی و دریافت بازخورد معرفی شده است.
+
+وضعیت آزمایش مستقل این نسخه در این README تأیید نشده است.
+
+### مواردی که باید بررسی شوند
+
+- [ ] بازشدن سایت روی گوشی اندرویدی
+- [ ] عملکرد صحیح دکمه‌های صفحه اصلی
+- [ ] بازشدن صحیح بخش دانلود
+- [ ] دسترسی به فایل واقعی APK
+- [ ] امکان دریافت کامل فایل
+- [ ] نمایش صحیح اطلاعات نسخه
+- [ ] درست‌بودن لینک‌های تلگرام
+- [ ] عملکرد صحیح طراحی فارسی و راست‌چین
+- [ ] سازگاری با اندازه‌های مختلف صفحه‌نمایش
+- [ ] نبودن لینک‌های خراب
+- [ ] نبودن اطلاعات نسخه یا حجم ساختگی
+- [ ] بررسی امنیت بخش‌های مدیریتی، در صورت وجود
+
+**وضعیت فعلی:** موارد بالا باید آزمایش شوند؛ تا پیش از انجام آزمایش واقعی نباید نسخه را کاملاً تأییدشده معرفی کرد.
+
+---
+
+## 📦 اطلاعات انتشار برنامه
+
+برای هر نسخه واقعی برنامه، اطلاعات زیر باید ثبت شوند:
+
+| مشخصه | توضیحات |
+|---|---|
+| نام برنامه | POMP NET NEXUS |
+| پلتفرم | Android |
+| نسخه | از نسخه واقعی منتشرشده استخراج شود |
+| اندازه فایل | از فایل APK واقعی استخراج شود |
+| SHA-256 | از فایل واقعی APK محاسبه شود |
+| تاریخ انتشار | تاریخ واقعی انتشار |
+| فایل دانلود | لینک مستقیم و معتبر |
+| تغییرات نسخه | توضیحات تغییرات واقعی |
+
+### بررسی صحت فایل
+
+برای هر APK منتشرشده بهتر است هش SHA-256 محاسبه و در صفحه دانلود درج شود.
+
+در صورت تغییر حتی یک بایت از فایل، مقدار هش می‌تواند تغییر کند؛ بنابراین هش باید از همان فایلی محاسبه شود که برای دانلود ارائه شده است.
+
+از درج هش، حجم یا شماره نسخه ساختگی خودداری شود.
+
+---
+
+## 🔐 امنیت و حریم خصوصی
+
+امنیت باید در اپلیکیشن، سایت و بخش مدیریت در نظر گرفته شود.
+
+اصول موردنظر:
+
+- نگهداری امن اطلاعات حساس
+- خودداری از قراردادن رمزهای عبور در کد عمومی
+- محافظت از مسیرهای مدیریتی
+- اعتبارسنجی ورودی‌های سمت سرور
+- استفاده از ارتباط امن HTTPS
+- بررسی صحت فایل‌های منتشرشده
+- محدودکردن دسترسی‌های غیرضروری
+- خودداری از جمع‌آوری اطلاعات غیرضروری کاربران
+- توضیح شفاف درباره اطلاعاتی که برنامه واقعاً جمع‌آوری می‌کند
+- بررسی مجوزهای موردنیاز اپلیکیشن
+
+این فهرست اصول پیشنهادی امنیت است و به‌تنهایی تأیید نمی‌کند که تمام موارد در نسخه فعلی پیاده‌سازی شده‌اند.
+
+---
+
+## 🛠️ فناوری‌ها و منابع
+
+### منبع اصلی اندروید
+
+[v2rayNG — GitHub](https://github.com/2dust/v2rayNG)
+
+### فناوری‌های احتمالی پروژه
+
+بسته به ساختار واقعی مخزن، پروژه ممکن است از فناوری‌های زیر استفاده کند:
 
 - Android SDK
-- Kotlin and/or Java, according to the upstream source
+- Kotlin و/یا Java
 - Gradle
-- Android VPNService
-- Integrated upstream VPN core
+- سرویس VPN اندروید
+- هسته و وابستگی‌های پروژه اصلی
+- HTML
+- CSS
+- JavaScript
+- سرویس میزبانی وب
 
-Website
-
-The actual framework and build tools should be documented from the project files.
-
-Possible components include:
-
-- React
-- TypeScript
-- Responsive CSS
-- Server-side APIs
-- Persistent storage where required
-
-Backend
-
-Where a backend is required, it should provide the necessary application functions, including:
-
-- Secure administrator authentication
-- Release information management
-- Validated configuration storage
-- Persistent settings
-- Protected administrative operations
-
-The backend must use the architecture and technology actually implemented in the repository.
-
-Deployment
-
-The deployment platform must support the actual application architecture.
-
-The website, administrative API, and Android build process should be documented separately when they use different environments.
+فناوری‌های استفاده‌شده در نسخه نهایی باید با فایل‌های واقعی مخزن مطابقت داشته باشند.
 
 ---
 
-🔐 Security
+## 🚀 شروع کار با مخزن
 
-Security is a core requirement.
+مخزن پروژه:
 
-- Protect administrative routes and APIs.
-- Validate uploaded files and user-provided configuration data.
-- Keep secrets in environment variables or an appropriate secret store.
-- Use HTTPS in production.
-- Never expose administrator passwords, private keys, or signing credentials.
-- Generate checksums from actual release files.
-- Preserve upstream security mechanisms.
-- Verify authorization on the server, not only in the browser.
-- Keep dependencies updated where compatibility permits.
-- Avoid logging sensitive credentials or private configuration data.
+https://github.com/uxurx7rh7e7xr73uue73e8/POMP-NET-NEXUS
 
----
+برای دریافت پروژه:
 
-📂 Repository Structure
+```bash
+git clone https://github.com/uxurx7rh7e7xr73uue73e8/POMP-NET-NEXUS.git
+cd POMP-NET-NEXUS
+```
 
-The following is an illustrative structure. Update it to match the actual repository.
+> دستور بالا به وجود مخزن با این آدرس و دسترسی به آن وابسته است. ساختار واقعی پوشه‌ها و مراحل ساخت باید با فایل‌های موجود در مخزن بررسی شود.
 
-POMP-NET-NEXUS/
-├── android/
-│   └── Android VPN application
-├── website/
-│   └── Download website
-├── admin/
-│   └── Administration interface
-├── server/
-│   └── Backend and API, if applicable
-├── docs/
-│   ├── README documentation
-│   └── images/
-│       ├── website-home.png
-│       ├── download-center.png
-│       ├── android-app.png
-│       ├── admin-dashboard.png
-│       ├── mobile-website.png
-│       └── connection-screen.png
-├── README.md
-└── LICENSE
+برای ساخت برنامه اندروید، از دستورالعمل‌ها و نسخه‌های ابزار موردنیاز در مستندات پروژه اصلی و فایل‌های Gradle همین مخزن استفاده کن.
 
-This structure is a documentation example, not a claim about the current repository contents.
+برای انتشار وب‌سایت، ابتدا مطمئن شو لینک دانلود به فایل واقعی و در دسترس متصل است.
 
 ---
 
-🚀 Getting Started
+## 📱 راهنمای کاربران
 
-1. Obtain the Source Code
+### نصب برنامه
 
-Clone the repository:
+1. وارد سایت دانلود شو.
+2. نسخه منتشرشده را بررسی کن.
+3. فایل APK را فقط از منبع معتبر دریافت کن.
+4. در صورت نیاز، اجازه نصب برنامه از منبع مربوط را در تنظیمات اندروید فعال کن.
+5. برنامه را نصب و اجرا کن.
+6. فقط از تنظیمات اتصالی استفاده کن که به آن اعتماد داری.
 
-git clone YOUR_REPOSITORY_URL
+### واردکردن تنظیمات اتصال
 
-Replace "YOUR_REPOSITORY_URL" with the actual GitHub repository address.
+روش واردکردن تنظیمات به امکانات نسخه واقعی برنامه بستگی دارد. از گزینه‌های موجود در اپلیکیشن و راهنمای مربوط به همان نسخه استفاده کن.
 
-2. Inspect the Project
+### بررسی اتصال
 
-Identify the Android project, website, backend, dependency versions, and required environment variables.
-
-3. Build the Android Application
-
-Open the Android project in a compatible Android development environment and follow the build instructions for the actual Gradle configuration.
-
-4. Deploy the Website
-
-Follow the instructions for the website framework and hosting platform present in the repository.
-
-5. Configure the Backend
-
-If the project includes an administrative API, configure authentication, persistence, and required secrets before enabling administrative operations.
-
-6. Verify the Release
-
-Before publishing:
-
-- Build the actual application.
-- Test the supported VPN connection workflows.
-- Verify website links.
-- Calculate the APK checksum.
-- Confirm the displayed file size.
-- Test the download from a mobile device.
-- Check the administrator authentication and authorization.
-- Record the actual release notes.
-
-Do not describe untested features as verified.
+- وضعیت اتصال را در خود برنامه بررسی کن.
+- از تنظیمات معتبر استفاده کن.
+- در صورت بروز خطا، نسخه برنامه و پیام خطا را بررسی کن.
+- از ارسال اطلاعات حساس یا تنظیمات خصوصی در فضای عمومی خودداری کن.
 
 ---
 
-📜 Licensing and Attribution
+## 💬 ارتباط با POMP NET
 
-POMP NET NEXUS uses the upstream v2rayNG project as its intended Android foundation.
+برای دسترسی به کانال‌ها و ارتباط با جامعه پروژه از لینک‌های زیر استفاده کن.
 
-Upstream repository: "github.com/2dust/v2rayNG" (https://github.com/2dust/v2rayNG)
+- **گفت‌وگوی تلگرام:** https://t.me/PompNett
+- **کانال رسمی POMP NET:** https://t.me/pompnet
+- **کانال پروکسی:** https://t.me/Myporoxy18
+- **وب‌سایت POMP NET:** https://pomp-net.botpool.ai/
 
-Before distributing modified binaries, preserve the upstream license, copyright notices, attribution, and other applicable licensing requirements.
-
-The final licensing information must reflect the actual source files and dependencies included in the release.
+از لینک‌های رسمی برای دریافت اخبار، اطلاعات پروژه و راهنمایی استفاده کن.
 
 ---
 
-💜 POMP NET
+## 📜 مجوزها و حقوق پروژه
 
-A distinctive interface. A real application. A maintainable project.
+POMP NET NEXUS از پروژه اصلی v2rayNG به‌عنوان منبع توسعه استفاده می‌کند.
 
-POMP NET NEXUS — Quantum Glass Experience
+مخزن اصلی:
 
-<p align="center">
-  <strong>Built around real functionality, thoughtful design, and a consistent POMP NET identity.</strong>
-</p>
+https://github.com/2dust/v2rayNG
+
+پیش از انتشار نسخه تغییر‌یافته، باید مجوزهای پروژه اصلی، مجوز وابستگی‌ها، شرایط استفاده از کد و الزام‌های مربوط به حفظ اعلان‌های حق نشر بررسی شوند.
+
+نام‌گذاری و برندینگ POMP NET به معنی مالکیت بر کد اصلی یا حذف حقوق صاحبان پروژه‌های وابسته نیست.
+
+مجوز دقیق نسخه منتشرشده باید با مجوزهای واقعی مخزن و وابستگی‌های آن مطابقت داشته باشد.
+
+---
+
+## 📌 وضعیت پروژه
+
+این README اطلاعات معرفی، لینک‌ها، طراحی هدف و قابلیت‌های موردنظر پروژه را جمع‌آوری می‌کند.
+
+موارد زیر باید جداگانه و با بررسی واقعی تأیید شوند:
+
+- وضعیت ساخت APK
+- نصب موفق برنامه
+- اتصال واقعی VPN
+- عملکرد هر پروتکل
+- صحت لینک دانلود
+- عملکرد پنل مدیریت
+- امنیت سمت سرور
+- موفقیت آزمایش‌های نسخه دوم سایت
+
+از معرفی قابلیت آزمایش‌نشده به‌عنوان قابلیت قطعی خودداری می‌شود.
+
+---
+
+<div align="center">
+
+## 💜 POMP NET NEXUS
+
+### Beyond the Ordinary.
+
+**Designed for a better experience. Built around the real project.**
+
+[⬇️ ورود به سایت دانلود](https://nexus-neon-persian.lovable.app/#download)
+
+[🌐 مشاهده نسخه دوم سایت](https://neon-flow-pompnet.lovable.app)
+
+[💬 تلگرام POMP NET](https://t.me/PompNett)
+
+</div>
