@@ -1,74 +1,69 @@
-<div align="center">
+<div align="center">🚀 POMP NET NEXUS
 
-# 🚀 POMP NET NEXUS
-
-### ⚡ نسل جدید تجربه اتصال، با طراحی اختصاصی POMP NET
+⚡ دانلود مستقیم از سایت رسمی پروژه
 
 <p>
-  ورود به سایت پروژه، مشاهده اطلاعات برنامه و دسترسی به بخش دانلود
-</p>
-
-<a href="https://nexus-neon-persian.lovable.app/#download" target="_blank">
-  <img src="https://img.shields.io/badge/⬇_ورود_به_سایت_و_دانلود-POMP_NET_NEXUS-8B35FF?style=for-the-badge&logo=android&logoColor=white" alt="ورود به سایت دانلود POMP NET NEXUS">
-</a>
-
-<br><br>
+  <strong>برای ورود به سایت و دانلود برنامه، روی دکمه زیر بزنید.</strong>
+</p><a href="https://nexus-neon-persian.lovable.app/#download" target="_blank">
+  <img src="https://img.shields.io/badge/⬇_ورود_به_سایت_و_دانلود-POMP_NET_NEXUS-8B35FF?style=for-the-badge&logo=android&logoColor=white" alt="ورود به سایت و دانلود POMP NET NEXUS">
+</a><br><br>
 
 <a href="https://neon-flow-pompnet.lovable.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_مشاهده_نسخه_دوم_سایت-168CFF?style=for-the-badge" alt="مشاهده نسخه دوم سایت">
-</a>
-
-<br><br>
+</a><br><br>
 
 <a href="https://t.me/PompNett" target="_blank">
-  <img src="https://img.shields.io/badge/💬_ارتباط_با_پمپ_نت-FF3DBB?style=for-the-badge&logo=telegram&logoColor=white" alt="ارتباط با POMP NET">
-</a>
-
-<br><br>
+  <img src="https://img.shields.io/badge/💬_پشتیبانی_تلگرام-FF3DBB?style=for-the-badge&logo=telegram&logoColor=white" alt="پشتیبانی تلگرام">
+</a><br><br>
 
 <img src="https://img.shields.io/badge/PROJECT-POMP%20NET%20NEXUS-8B35FF?style=flat-square" alt="Project">
 <img src="https://img.shields.io/badge/DESIGN-QUANTUM%20GLASS-168CFF?style=flat-square" alt="Design">
-<img src="https://img.shields.io/badge/PLATFORM-ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/PLATFORM-ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">---
 
-</div>
+📥 راهنمای دانلود
 
----
+۱. روی دکمه بنفش ورود به سایت و دانلود بزنید.
 
-## 📥 دانلود و دسترسی سریع
+۲. در سایت، بخش دانلود برنامه را باز کنید.
 
-برای دسترسی به سایت و بخش دانلود، روی دکمه زیر بزن:
+۳. در صورت وجود فایل APK واقعی و فعال‌بودن لینک، برنامه را دانلود کنید.
 
-### [⬇️ ورود به سایت و دانلود POMP NET NEXUS](https://nexus-neon-persian.lovable.app/#download)
+</div>---
+
+📥 دانلود و دسترسی سریع
+
+برای دسترسی به سایت و بخش دانلود، از لینک زیر استفاده کن:
+
+"⬇️ ورود به سایت و دانلود POMP NET NEXUS" (https://nexus-neon-persian.lovable.app/#download)
 
 از طریق سایت می‌توانی اطلاعات پروژه را مشاهده کنی و در صورت وجود فایل APK واقعی و فعال، از بخش دانلود آن استفاده کنی.
 
-**توجه:** دکمه بالا سایت را باز می‌کند. دانلود مستقیم فایل تنها زمانی انجام می‌شود که لینک دانلود داخل سایت به یک فایل APK واقعی و قابل‌دسترسی متصل باشد.
+توجه: دکمه بالا سایت را باز می‌کند. دانلود مستقیم فایل تنها زمانی انجام می‌شود که لینک دانلود داخل سایت به یک فایل APK واقعی و قابل‌دسترسی متصل باشد.
 
-### لینک‌های اصلی پروژه
+لینک‌های اصلی پروژه
 
-| عنوان | لینک |
-|---|---|
-| 📥 سایت دانلود | https://nexus-neon-persian.lovable.app/#download |
-| 🌐 نسخه دوم سایت برای بررسی | https://neon-flow-pompnet.lovable.app |
-| 🖥️ سایت معرفی پروژه | https://neon-pomp-hub.lovable.app |
-| 🌐 وب‌سایت POMP NET | https://pomp-net.botpool.ai/ |
-| 💬 گفت‌وگوی تلگرام | https://t.me/PompNett |
-| 📢 کانال رسمی POMP NET | https://t.me/pompnet |
-| 🌍 کانال پروکسی | https://t.me/Myporoxy18 |
-| 🧩 سورس اصلی v2rayNG | https://github.com/2dust/v2rayNG |
-| 📦 مخزن POMP NET NEXUS | https://github.com/uxurx7rh7e7xr73uue73e8/POMP-NET-NEXUS |
+عنوان| لینک
+📥 سایت دانلود| "ورود به سایت دانلود" (https://nexus-neon-persian.lovable.app/#download)
+🌐 نسخه دوم سایت| "مشاهده نسخه دوم" (https://neon-flow-pompnet.lovable.app)
+🖥️ سایت معرفی پروژه| "مشاهده سایت معرفی" (https://neon-pomp-hub.lovable.app)
+🌐 وب‌سایت POMP NET| "ورود به وب‌سایت" (https://pomp-net.botpool.ai/)
+💬 گفت‌وگوی تلگرام| "PompNett" (https://t.me/PompNett)
+📢 کانال رسمی POMP NET| "ورود به کانال" (https://t.me/pompnet)
+🌍 کانال پروکسی| "مشاهده کانال" (https://t.me/Myporoxy18)
+🧩 سورس اصلی v2rayNG| "مشاهده در GitHub" (https://github.com/2dust/v2rayNG)
+📦 مخزن POMP NET NEXUS| "ورود به مخزن" (https://github.com/uxurx7rh7e7xr73uue73e8/POMP-NET-NEXUS)
 
 ---
 
-## 🌌 معرفی پروژه
+🌌 معرفی پروژه
 
-**POMP NET NEXUS** پروژه‌ای با هویت بصری اختصاصی POMP NET است که هدف آن فراهم‌کردن تجربه‌ای مدرن برای اپلیکیشن اندروید، وب‌سایت دانلود و مدیریت اطلاعات انتشار برنامه است.
+POMP NET NEXUS پروژه‌ای با هویت بصری اختصاصی POMP NET است که هدف آن فراهم‌کردن تجربه‌ای مدرن برای اپلیکیشن اندروید، وب‌سایت دانلود و مدیریت اطلاعات انتشار برنامه است.
 
 این پروژه با تمرکز بر طراحی حرفه‌ای، رابط کاربری فارسی، سازگاری با موبایل، دسترسی آسان و استفاده از هسته واقعی برنامه در نظر گرفته شده است.
 
 هدف پروژه ساخت یک محصول واقعی است؛ نه صرفاً یک صفحه نمایشی که دکمه‌های آن بدون عملکرد باشند.
 
-### اصول اصلی پروژه
+اصول اصلی پروژه
 
 - 🎨 طراحی اختصاصی QUANTUM GLASS
 - 📱 رابط کاربری مناسب گوشی‌های اندرویدی
@@ -83,11 +78,11 @@
 
 ---
 
-## ✨ قابلیت‌ها و بخش‌های پروژه
+✨ قابلیت‌ها و بخش‌های پروژه
 
-### 1. اپلیکیشن اندروید
+۱. اپلیکیشن اندروید
 
-هدف، توسعه نسخه برندشده POMP NET بر پایه سورس واقعی پروژه [v2rayNG](https://github.com/2dust/v2rayNG) است.
+هدف، توسعه نسخه برندشده POMP NET بر پایه سورس واقعی پروژه "v2rayNG" (https://github.com/2dust/v2rayNG) است.
 
 قابلیت‌های موردنظر، با توجه به پیاده‌سازی واقعی در کد پروژه، شامل موارد زیر هستند:
 
@@ -105,15 +100,15 @@
 - ارائه راهنمای نصب و استفاده
 - نمایش لینک پشتیبانی و کانال‌های رسمی
 
-**مهم:** وجود هر قابلیت در این فهرست به معنی تأیید عملکرد آن در نسخه منتشرشده نیست. هر قابلیت باید در نسخه واقعی برنامه پیاده‌سازی و آزمایش شود.
+مهم: وجود هر قابلیت در این فهرست به معنی تأیید عملکرد آن در نسخه منتشرشده نیست. هر قابلیت باید در نسخه واقعی برنامه پیاده‌سازی و آزمایش شود.
 
-### 2. هسته واقعی VPN
+۲. هسته واقعی VPN
 
 پروژه باید از هسته و سازوکار واقعی پروژه اصلی استفاده کند.
 
 منبع اصلی:
 
-https://github.com/2dust/v2rayNG
+"مشاهده سورس v2rayNG در GitHub" (https://github.com/2dust/v2rayNG)
 
 در توسعه پروژه:
 
@@ -126,7 +121,7 @@ https://github.com/2dust/v2rayNG
 
 پشتیبانی از پروتکل‌ها و فرمت‌های اتصال به نسخه هسته، تنظیمات ساخته‌شده و پیاده‌سازی واقعی وابسته است.
 
-### 3. وب‌سایت دانلود
+۳. وب‌سایت دانلود
 
 وب‌سایت پروژه باید امکان دسترسی آسان به اطلاعات برنامه و نسخه‌های منتشرشده را فراهم کند.
 
@@ -145,9 +140,9 @@ https://github.com/2dust/v2rayNG
 - لینک کانال رسمی تلگرام
 - بخش مجوزها و اطلاعات پروژه
 
-**قانون مهم:** نسخه، حجم فایل، هش SHA-256 و اطلاعات انتشار نباید ساختگی باشند؛ این موارد باید از فایل واقعی انتشار استخراج شوند.
+قانون مهم: نسخه، حجم فایل، هش SHA-256 و اطلاعات انتشار نباید ساختگی باشند؛ این موارد باید از فایل واقعی انتشار استخراج شوند.
 
-### 4. پنل مدیریت
+۴. پنل مدیریت
 
 در صورت پیاده‌سازی بخش مدیریت، امکانات موردنظر عبارت‌اند از:
 
@@ -161,24 +156,23 @@ https://github.com/2dust/v2rayNG
 
 اطلاعات حساس نباید مستقیماً در کد سمت کاربر قرار بگیرند.
 
-همچنین، ظاهرشدن یک دکمه مدیریت در رابط کاربری به‌تنهایی به معنی وجود عملکرد واقعی سمت سرور نیست؛ هر قابلیت مدیریتی باید با منطق سمت سرور و کنترل دسترسی مناسب پیاده‌سازی شود.
+ظاهرشدن یک دکمه مدیریت در رابط کاربری به‌تنهایی به معنی وجود عملکرد واقعی سمت سرور نیست؛ هر قابلیت مدیریتی باید با منطق سمت سرور و کنترل دسترسی مناسب پیاده‌سازی شود.
 
 ---
 
-## 🎨 سیستم طراحی QUANTUM GLASS
+🎨 سیستم طراحی QUANTUM GLASS
 
 هویت بصری POMP NET NEXUS بر اساس طراحی شیشه‌ای مدرن، پس‌زمینه تیره و نورهای نئونی شکل گرفته است.
 
-### رنگ‌های اصلی
+رنگ‌های اصلی
 
-| کاربرد | رنگ |
-|---|---|
-| پس‌زمینه اصلی | `#050509` |
-| بنفش نئونی | `#8B35FF` |
-| آبی نئونی | `#168CFF` |
-| صورتی نئونی | `#FF3DBB` |
+کاربرد| رنگ
+پس‌زمینه اصلی| "#050509"
+بنفش نئونی| "#8B35FF"
+آبی نئونی| "#168CFF"
+صورتی نئونی| "#FF3DBB"
 
-### ویژگی‌های ظاهری
+ویژگی‌های ظاهری
 
 - کارت‌های شیشه‌ای نیمه‌شفاف
 - پس‌زمینه تیره
@@ -191,7 +185,7 @@ https://github.com/2dust/v2rayNG
 - رابط فارسی و راست‌چین
 - انیمیشن‌های ظریف و کنترل‌شده
 
-### فونت‌های پیشنهادی
+فونت‌های پیشنهادی
 
 - Vazirmatn برای رابط فارسی
 - Space Grotesk برای بخش‌های لاتین
@@ -201,49 +195,49 @@ https://github.com/2dust/v2rayNG
 
 ---
 
-## 🖼️ تصاویر پروژه
+🖼️ تصاویر پروژه
 
 برای نمایش تصاویر در این بخش، تصاویر واقعی پروژه را در مسیرهای زیر قرار بده.
 
-### تصویر صفحه اصلی سایت
+تصویر صفحه اصلی سایت
 
-![POMP NET NEXUS Website](docs/images/website-home.png)
+"POMP NET NEXUS Website" (docs/images/website-home.png)
 
-### تصویر مرکز دانلود
+تصویر مرکز دانلود
 
-![POMP NET NEXUS Download Center](docs/images/download-center.png)
+"POMP NET NEXUS Download Center" (docs/images/download-center.png)
 
-### تصویر اپلیکیشن اندروید
+تصویر اپلیکیشن اندروید
 
-![POMP NET NEXUS Android App](docs/images/android-app.png)
+"POMP NET NEXUS Android App" (docs/images/android-app.png)
 
-### تصویر پنل مدیریت
+تصویر پنل مدیریت
 
-![POMP NET NEXUS Admin Dashboard](docs/images/admin-dashboard.png)
+"POMP NET NEXUS Admin Dashboard" (docs/images/admin-dashboard.png)
 
-### تصویر نسخه موبایل سایت
+تصویر نسخه موبایل سایت
 
-![POMP NET NEXUS Mobile Website](docs/images/mobile-website.png)
+"POMP NET NEXUS Mobile Website" (docs/images/mobile-website.png)
 
-### تصویر صفحه اتصال
+تصویر صفحه اتصال
 
-![POMP NET NEXUS Connection Screen](docs/images/connection-screen.png)
+"POMP NET NEXUS Connection Screen" (docs/images/connection-screen.png)
 
-> این تصاویر تا زمانی که فایل‌های واقعی با نام‌ها و مسیرهای بالا در مخزن قرار نگیرند، نمایش داده نمی‌شوند. نام فایل‌ها به‌تنهایی تصویر ایجاد نمی‌کند.
+«این تصاویر تا زمانی که فایل‌های واقعی با نام‌ها و مسیرهای بالا در مخزن قرار نگیرند، نمایش داده نمی‌شوند. نام فایل‌ها به‌تنهایی تصویر ایجاد نمی‌کند.»
 
 ---
 
-## 🧪 آزمایش نسخه دوم سایت
+🧪 آزمایش نسخه دوم سایت
 
-### لینک بررسی
+لینک بررسی
 
-**[🌐 ورود به نسخه دوم سایت POMP NET](https://neon-flow-pompnet.lovable.app)**
+"🌐 ورود به نسخه دوم سایت POMP NET" (https://neon-flow-pompnet.lovable.app)
 
 نسخه دوم برای بررسی و دریافت بازخورد معرفی شده است.
 
 وضعیت آزمایش مستقل این نسخه در این README تأیید نشده است.
 
-### مواردی که باید بررسی شوند
+مواردی که باید بررسی شوند
 
 - [ ] بازشدن سایت روی گوشی اندرویدی
 - [ ] عملکرد صحیح دکمه‌های صفحه اصلی
@@ -258,26 +252,25 @@ https://github.com/2dust/v2rayNG
 - [ ] نبودن اطلاعات نسخه یا حجم ساختگی
 - [ ] بررسی امنیت بخش‌های مدیریتی، در صورت وجود
 
-**وضعیت فعلی:** موارد بالا باید آزمایش شوند؛ تا پیش از انجام آزمایش واقعی نباید نسخه را کاملاً تأییدشده معرفی کرد.
+وضعیت فعلی: موارد بالا باید آزمایش شوند؛ تا پیش از انجام آزمایش واقعی نباید نسخه را کاملاً تأییدشده معرفی کرد.
 
 ---
 
-## 📦 اطلاعات انتشار برنامه
+📦 اطلاعات انتشار برنامه
 
 برای هر نسخه واقعی برنامه، اطلاعات زیر باید ثبت شوند:
 
-| مشخصه | توضیحات |
-|---|---|
-| نام برنامه | POMP NET NEXUS |
-| پلتفرم | Android |
-| نسخه | از نسخه واقعی منتشرشده استخراج شود |
-| اندازه فایل | از فایل APK واقعی استخراج شود |
-| SHA-256 | از فایل واقعی APK محاسبه شود |
-| تاریخ انتشار | تاریخ واقعی انتشار |
-| فایل دانلود | لینک مستقیم و معتبر |
-| تغییرات نسخه | توضیحات تغییرات واقعی |
+مشخصه| توضیحات
+نام برنامه| POMP NET NEXUS
+پلتفرم| Android
+نسخه| از نسخه واقعی منتشرشده استخراج شود
+اندازه فایل| از فایل APK واقعی استخراج شود
+SHA-256| از فایل واقعی APK محاسبه شود
+تاریخ انتشار| تاریخ واقعی انتشار
+فایل دانلود| لینک مستقیم و معتبر
+تغییرات نسخه| توضیحات تغییرات واقعی
 
-### بررسی صحت فایل
+بررسی صحت فایل
 
 برای هر APK منتشرشده بهتر است هش SHA-256 محاسبه و در صفحه دانلود درج شود.
 
@@ -287,7 +280,7 @@ https://github.com/2dust/v2rayNG
 
 ---
 
-## 🔐 امنیت و حریم خصوصی
+🔐 امنیت و حریم خصوصی
 
 امنیت باید در اپلیکیشن، سایت و بخش مدیریت در نظر گرفته شود.
 
@@ -308,13 +301,13 @@ https://github.com/2dust/v2rayNG
 
 ---
 
-## 🛠️ فناوری‌ها و منابع
+🛠️ فناوری‌ها و منابع
 
-### منبع اصلی اندروید
+منبع اصلی اندروید
 
-[v2rayNG — GitHub](https://github.com/2dust/v2rayNG)
+"v2rayNG — GitHub" (https://github.com/2dust/v2rayNG)
 
-### فناوری‌های احتمالی پروژه
+فناوری‌های احتمالی پروژه
 
 بسته به ساختار واقعی مخزن، پروژه ممکن است از فناوری‌های زیر استفاده کند:
 
@@ -332,20 +325,18 @@ https://github.com/2dust/v2rayNG
 
 ---
 
-## 🚀 شروع کار با مخزن
+🚀 شروع کار با مخزن
 
 مخزن پروژه:
 
-https://github.com/uxurx7rh7e7xr73uue73e8/POMP-NET-NEXUS
+"مشاهده مخزن POMP NET NEXUS" (https://github.com/uxurx7rh7e7xr73uue73e8/POMP-NET-NEXUS)
 
 برای دریافت پروژه:
 
-```bash
 git clone https://github.com/uxurx7rh7e7xr73uue73e8/POMP-NET-NEXUS.git
 cd POMP-NET-NEXUS
-```
 
-> دستور بالا به وجود مخزن با این آدرس و دسترسی به آن وابسته است. ساختار واقعی پوشه‌ها و مراحل ساخت باید با فایل‌های موجود در مخزن بررسی شود.
+«دستور بالا به وجود مخزن با این آدرس و دسترسی به آن وابسته است. ساختار واقعی پوشه‌ها و مراحل ساخت باید با فایل‌های موجود در مخزن بررسی شود.»
 
 برای ساخت برنامه اندروید، از دستورالعمل‌ها و نسخه‌های ابزار موردنیاز در مستندات پروژه اصلی و فایل‌های Gradle همین مخزن استفاده کن.
 
@@ -353,9 +344,9 @@ cd POMP-NET-NEXUS
 
 ---
 
-## 📱 راهنمای کاربران
+📱 راهنمای کاربران
 
-### نصب برنامه
+نصب برنامه
 
 1. وارد سایت دانلود شو.
 2. نسخه منتشرشده را بررسی کن.
@@ -364,11 +355,11 @@ cd POMP-NET-NEXUS
 5. برنامه را نصب و اجرا کن.
 6. فقط از تنظیمات اتصالی استفاده کن که به آن اعتماد داری.
 
-### واردکردن تنظیمات اتصال
+واردکردن تنظیمات اتصال
 
 روش واردکردن تنظیمات به امکانات نسخه واقعی برنامه بستگی دارد. از گزینه‌های موجود در اپلیکیشن و راهنمای مربوط به همان نسخه استفاده کن.
 
-### بررسی اتصال
+بررسی اتصال
 
 - وضعیت اتصال را در خود برنامه بررسی کن.
 - از تنظیمات معتبر استفاده کن.
@@ -377,26 +368,26 @@ cd POMP-NET-NEXUS
 
 ---
 
-## 💬 ارتباط با POMP NET
+💬 ارتباط با POMP NET
 
 برای دسترسی به کانال‌ها و ارتباط با جامعه پروژه از لینک‌های زیر استفاده کن.
 
-- **گفت‌وگوی تلگرام:** https://t.me/PompNett
-- **کانال رسمی POMP NET:** https://t.me/pompnet
-- **کانال پروکسی:** https://t.me/Myporoxy18
-- **وب‌سایت POMP NET:** https://pomp-net.botpool.ai/
+- گفت‌وگوی تلگرام: "PompNett" (https://t.me/PompNett)
+- کانال رسمی POMP NET: "ورود به کانال" (https://t.me/pompnet)
+- کانال پروکسی: "ورود به کانال" (https://t.me/Myporoxy18)
+- وب‌سایت POMP NET: "ورود به وب‌سایت" (https://pomp-net.botpool.ai/)
 
 از لینک‌های رسمی برای دریافت اخبار، اطلاعات پروژه و راهنمایی استفاده کن.
 
 ---
 
-## 📜 مجوزها و حقوق پروژه
+📜 مجوزها و حقوق پروژه
 
 POMP NET NEXUS از پروژه اصلی v2rayNG به‌عنوان منبع توسعه استفاده می‌کند.
 
 مخزن اصلی:
 
-https://github.com/2dust/v2rayNG
+"مشاهده مخزن v2rayNG" (https://github.com/2dust/v2rayNG)
 
 پیش از انتشار نسخه تغییر‌یافته، باید مجوزهای پروژه اصلی، مجوز وابستگی‌ها، شرایط استفاده از کد و الزام‌های مربوط به حفظ اعلان‌های حق نشر بررسی شوند.
 
@@ -406,7 +397,7 @@ https://github.com/2dust/v2rayNG
 
 ---
 
-## 📌 وضعیت پروژه
+📌 وضعیت پروژه
 
 این README اطلاعات معرفی، لینک‌ها، طراحی هدف و قابلیت‌های موردنظر پروژه را جمع‌آوری می‌کند.
 
@@ -425,18 +416,20 @@ https://github.com/2dust/v2rayNG
 
 ---
 
-<div align="center">
+<div align="center">💜 POMP NET NEXUS
 
-## 💜 POMP NET NEXUS
+Beyond the Ordinary.
 
-### Beyond the Ordinary.
+Designed for a better experience. Built around the real project.
 
-**Designed for a better experience. Built around the real project.**
+<br><a href="https://nexus-neon-persian.lovable.app/#download" target="_blank">
+  <img src="https://img.shields.io/badge/⬇_ورود_به_سایت_دانلود-8B35FF?style=for-the-badge&logo=android&logoColor=white" alt="ورود به سایت دانلود">
+</a><br><br>
 
-[⬇️ ورود به سایت دانلود](https://nexus-neon-persian.lovable.app/#download)
+<a href="https://neon-flow-pompnet.lovable.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_نسخه_دوم_سایت-168CFF?style=for-the-badge" alt="نسخه دوم سایت">
+</a><br><br>
 
-[🌐 مشاهده نسخه دوم سایت](https://neon-flow-pompnet.lovable.app)
-
-[💬 تلگرام POMP NET](https://t.me/PompNett)
-
-</div>
+<a href="https://t.me/PompNett" target="_blank">
+  <img src="https://img.shields.io/badge/💬_تلگرام_POMP_NET-FF3DBB?style=for-the-badge&logo=telegram&logoColor=white" alt="تلگرام POMP NET">
+</a></div>
